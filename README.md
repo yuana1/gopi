@@ -1,2 +1,2 @@
-# gopi
-wiringpi golang binding
+# rpigpio-golang
+wiringpi golang binding 
